@@ -1,17 +1,10 @@
-# kawamataryo's resume
+# noma's resume
 
-[![textlint](https://img.shields.io/github/workflow/status/kawamataryo/resume/lint%20text?label=textlint&logo=github&color=yellow)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22lint+text%22)
-[![build pdf](https://img.shields.io/github/workflow/status/kawamataryo/resume/build-pdf?label=build%20pdf&logo=github)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22build+pdf%22)
-[![create issue](https://img.shields.io/github/workflow/status/kawamataryo/resume/create%20issue?label=create%20issue&logo=github&color=orange)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22create+issue%22)
-[![release date](https://img.shields.io/github/release-date/kawamataryo/resume?color=blue&logo=github)](https://github.com/kawamataryo/resume/releases)
+- これはのまのレジュメです
 
-[ English | [日本語](https://github.com/kawamataryo/resume/blob/master/README.ja.md) ]
+## Template
+https://github.com/kawamataryo/resume
 
-## Data
-
-- [GitHub Pages](https://kawamataryo.github.io/resume/)  
-- [PDF](https://github.com/kawamataryo/resume/releases)  
-- [File](https://github.com/kawamataryo/resume/blob/master/docs/README.md)  
 ## Features
 
 ### 💅 Lint text
