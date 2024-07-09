@@ -1,7 +1,7 @@
 # noma's resume
 
 - これはのまのレジュメです
-- docs/README.md をお読みください
+- docs/README.mdにある、[職務経歴書](https://github.com/haribooooom/noma-resume/tree/master/docs#readme) をお読みください
 
 ## Template
 https://github.com/kawamataryo/resume
