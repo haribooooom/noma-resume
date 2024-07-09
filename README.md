@@ -1,6 +1,7 @@
 # noma's resume
 
 - これはのまのレジュメです
+- docs/README.md をお読みください
 
 ## Template
 https://github.com/kawamataryo/resume
