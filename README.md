@@ -1,39 +1,40 @@
-# noma's resume
+# のまの職務経歴書
 
-- これはのまのレジュメです
-- docs/README.mdにある、[職務経歴書](https://github.com/haribooooom/noma-resume/tree/master/docs#readme) をお読みください
+- これはのまの職務経歴書です。
+- [職務経歴書ファイル](https://github.com/haribooooom/noma-resume/tree/master/docs#readme)をご覧ください。
 
-## Template
-https://github.com/kawamataryo/resume
+## Data
+
+- [GitHub Pages](https://github.com/haribooooom/noma-resume)  
+- [PDF](https://github.com/haribooooom/noma-resume/releases)  
+- [File](https://github.com/haribooooom/noma-resume/tree/master/docs#readme)  
 
 ## Features
 
 ### 💅 Lint text
 
-Automatic proofreading with [textlint](https://github.com/textlint/textlint).
+[textlint](https://github.com/textlint/textlint) での自動校正しています。
 
 ```
 $ yarn lint --fix
 ```
-It is also automatically executed when pre-commit by [husky](https://github.com/typicode/husky).  
-proofreading rules are set with `.textlintrc`.
 
-
+[husky](https://github.com/typicode/husky) によってcommit前にも自動で実行されます。  
+校正のルールは`.textlintrc`に記載しています。
 
 ### 📝 Convert Markdown to PDF
 
-You can generate PDF with [md-to-pdf](https://www.npmjs.com/package/md-to-pdf).
-
+[md-to-pdf](https://www.npmjs.com/package/md-to-pdf) でのPDF生成が可能です。
 
 ```
 $ yarn build:pdf
 ```
 
-The output PDF can be styled as you like with CSS. Edit the `pdf-configs/style.css`.  
+出力されるPDFはCSSで任意のスタイルを設定可能です。`pdf-configs/style.css`を編集してください。  
 
 ### 🛠 Create release
 
-When you push with a `v**` tag, GitHub Actions will run the build, generate the PDF, create a Release, and register the PDF to Assets.
+`v**` tagをつけてpushするとGitHub Actionsでビルドが走り、PDFの生成、Releaseの作成、AssetsへPDFの登録が実行されます。
 
 ```
 $ git commit -m "add job"
@@ -43,9 +44,6 @@ $ git push origin --tags
 
 ### 📆 Remind update
 
-Automatically generate issues every three months with GitHub Actions Schedules triggers to prompt you to update your resume.
+GitHub Actionsのschedule triggerで3ヶ月に1回、職務経歴書の内容更新を促すissueが自動生成されます。
 
-To change the duration or stop the job, edit `.github/workflows/create-issue.yml`.  
-To change the issue contents, edit `.github/ISSUE_TEMPLATE.md`.
-
-
+期間の変更、Jobの停止は[.github/workflows/create-issue.yml](https://github.com/kawamataryo/resume/blob/master/.github/workflows/create-issue.yml) を編集してください。
