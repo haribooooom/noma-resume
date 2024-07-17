@@ -41,7 +41,7 @@
 
 ### 業務スキル
 
-![[img/noma-skikMap.png]]
+![[[img/noma-skikMap.png](https://github.com/haribooooom/noma-resume/blob/master/docs/img/noma-skikMap.png)]]
 
 #### サービス改善から培ったスキル
 
