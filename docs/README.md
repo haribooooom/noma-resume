@@ -30,22 +30,25 @@
 - [Wantedly](https://www.wantedly.com/id/madoka_nozaki_e")
 - [Youtrust](https://youtrust.jp/users/haribooooom")
 
-## 資格・証明
-
-- ITパスポート
-- [デジタルアクセシビリティアドバイザー](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/SW1tc2FydlFhbHM4RlFFT1ZKUmpXQT09)
-- [デジタル推進委員]（https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/WUFEajA3OEZnTlJMSXRhd3NvU2g4dz09）
 
 ## 保有スキル
 
-### サービス改善から培ったスキル
+### 資格・証明
+
+- ITパスポート
+- [デジタルアクセシビリティアドバイザー](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/SW1tc2FydlFhbHM4RlFFT1ZKUmpXQT09)
+- [デジタル推進委員](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/WUFEajA3OEZnTlJMSXRhd3NvU2g4dz09)
+
+### 業務スキル
+
+#### サービス改善から培ったスキル
 
 - 課題の言語化、仮説をPOとともに検討
 - 仮説からのUIデザイン
 - エンジニア、POとコミュニケーションをとりながらUIデザインのバランス調整
 - 課題の分析と解決策の提案
 
-### デザインシステムの構築から培ったスキル
+#### デザインシステムの構築から培ったスキル
 
 - デザインシステムの設計・運用と導入
 - スタイルガイドの作成
@@ -53,7 +56,7 @@
 - ドキュメントの整備と管理
 - Figma,VariantsやVariables
 
-### セールスフォースのデザインから培ったスキル
+#### セールスフォースのデザインから培ったスキル
 
 - SalesforceプラットフォームでのカスタムCSS作成
 - FAQサイトのデザインと構築
