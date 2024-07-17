@@ -41,7 +41,7 @@
 
 ### 業務スキル
 
-![[img/noma-skikMap.png]]
+![[img/noma-skilMap.png]]
 
 #### サービス改善から培ったスキル
 
