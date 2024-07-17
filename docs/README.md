@@ -41,7 +41,11 @@
 
 ### 業務スキル
 
+<<<<<<< HEAD
 ![[img/noma-skilMap.png]]
+=======
+![Will Canスキル図](https://github.com/haribooooom/noma-resume/blob/master/docs/img/noma-skikMap.png)
+>>>>>>> 9184590bb9ce7a87cd61e498411beb97acda2a3b
 
 #### サービス改善から培ったスキル
 
