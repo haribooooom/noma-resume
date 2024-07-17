@@ -30,6 +30,12 @@
 - [Wantedly](https://www.wantedly.com/id/madoka_nozaki_e")
 - [Youtrust](https://youtrust.jp/users/haribooooom")
 
+## 資格・証明
+
+- ITパスポート
+- [デジタルアクセシビリティアドバイザー](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/SW1tc2FydlFhbHM4RlFFT1ZKUmpXQT09)
+- [デジタル推進委員]（https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/WUFEajA3OEZnTlJMSXRhd3NvU2g4dz09）
+
 ## 保有スキル
 
 ### サービス改善から培ったスキル
@@ -191,7 +197,8 @@
 
 ### 登壇履歴
 
-- [アクセシビリティLT会(予定2024/7/16)](https://yumemi.connpass.com/event/323801/)
+- [アクセシビリティLT会(2024/7/16)](https://yumemi.connpass.com/event/323801/)
+ - [「アクセシビリティ対応」の先をみる](https://www.figma.com/slides/uVTS7a2QsZUCFy4cMwE738/%E3%80%8C%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E5%AF%BE%E5%BF%9C%E3%80%8D%E3%81%AE%E5%85%88%E3%82%92%E3%81%BF%E3%82%8B?t=QDJ9JVH2FknkFWVR-6)
 
 ### 勉強会の主催
 
