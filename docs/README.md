@@ -4,11 +4,11 @@
 
 ユーザー中心のUI/UXに関心を持ちデザインをしています。初めはUXデザイナーとしてのキャリアをスタートさせ、現在はデザインシステムの構築やサービスのデザイン、アクセシビリティ向上に努めています。
 
-プロジェクト管理、チーム内外のコミュニケーション、啓蒙・研修の実施など、多岐にわたる業務も遂行し、プロダクトの体験向上を目指しています。
+プロジェクト管理、チーム内外のコミュニケーション、啓蒙・研修の実施など、多岐にわたる業務も遂行し、プロダクトのユーザーエクスペリエンスの向上を目指しています。
 
 具体的には、FigmaとStorybookを活用したコンポーネントライブラリの構築、SEOによる会員登録数の増加施策、本人確認推奨化に向けた複数プロジェクト、アクセシビリティチェックの実施と改善・勉強会、ChatGPTを活用したユーザーストーリーマッピングの作成などを行いました。
 
-ユーザーにとって使いやすくアクセシブルなプロダクトの提供、またChatGPTなどの生成AIを活用し効率的な業務を行うことを目指しています。
+このような多方面での経験を活かし、ユーザーにとって使いやすくアクセシブルなプロダクトの提供、またChatGPTなどの生成AIを活用し効率的な業務を行うことを目指しています。
 
 ## 基本情報
 
@@ -24,20 +24,22 @@
 ## 各種アカウント
 
 - [Twitter(X)](https://x.com/haribooooom)
-- [note](https://note.com/haribom")
-- [Github](https://github.com/haribooooom")
-- [LinkedIn](https://www.linkedin.com/in/madoka-nozaki-23696b29b/")
-- [Wantedly](https://www.wantedly.com/id/madoka_nozaki_e")
-- [Youtrust](https://youtrust.jp/users/haribooooom")
-
-
-## 保有スキル
+- [note](https://note.com/haribom”)
+- [Github](https://github.com/haribooooom”)
+- [LinkedIn](https://www.linkedin.com/in/madoka-nozaki-23696b29b/”)
+- [Wantedly](https://www.wantedly.com/id/madoka_nozaki_e”)
+- [Youtrust](https://youtrust.jp/users/haribooooom”)
 
 ### 資格・証明
 
 - ITパスポート
+  - 取得年月: 2022年4月
+  - 認定機関: 情報処理推進機構（IPA）
 - [デジタルアクセシビリティアドバイザー](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/SW1tc2FydlFhbHM4RlFFT1ZKUmpXQT09)
+  - 取得年月: 2024年5月
+  - 認定機関: 一般社団法人日本支援技術協会
 - [デジタル推進委員](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/WUFEajA3OEZnTlJMSXRhd3NvU2g4dz09)
+  - 取得年月: 2024年7月
 
 ### 業務スキル
 
@@ -175,8 +177,11 @@
 #### アクセシビリティ
 
 - [デジタルアクセシビリティアドバイザー（Basicレベル）についてとその勉強法｜のま](https://note.com/haribom/n/n9a6caf61341c)
-- [クラウドワークスのみんなでやってる アクセシビリティ](https://speakerdeck.com/haribooom11/kurautowakusunominnateyatuteru-akusesihiritei)
-- [「クラウドワークスのみんなでやってるアクセシビリティ」勉強会を実施しました！｜のま](https://note.com/haribom/n/n84ee876ec4de)
+- [クラウドワークスのみんなでやってる アクセシビリティ](
+https://speakerdeck.com/haribooom11/kurautowakusunominnateyatuteru-akusesihiritei
+)
+- [「クラウドワークスのみんなでやってるアクセシビリティ」勉強会を実施しました！｜のま](
+https://note.com/haribom/n/n84ee876ec4de)
 - [クラウドワークスのアクセシビリティ啓蒙活動2023｜のま](https://note.com/haribom/n/n70ddd78d98e1)
 
 #### Notionタスク系
