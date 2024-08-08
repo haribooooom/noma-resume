@@ -2,7 +2,7 @@
 
 - これはのまの職務経歴書です。
 - [職務経歴書ファイル](https://github.com/haribooooom/noma-resume/tree/master/docs#readme)をご覧ください。
-- [Figmaで作成したポートフォリオ](https://www.figma.com/proto/wIMQNDaQqofZsygtwIC4pI/%E3%83%AC%E3%82%B8%E3%83%A5%E3%83%A1?page-id=3126%3A4902&node-id=3384-2783&viewport=242%2C1380%2C0.07&t=K4bjmys7MN2d8oxZ-9&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3384%3A2783&show-proto-sidebar=1)も用意していますので、よろしければご覧ください。
+- [Figmaで作成したポートフォリオ](https://www.figma.com/proto/XakWfbhwCdLjqFqNmPtGaE/noma-Portfolio?node-id=5124-4554&t=MAy6JEIU4mWtTokg-1)も用意していますので、よろしければご覧ください。
 
 ## Data
 
