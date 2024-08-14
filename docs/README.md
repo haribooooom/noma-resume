@@ -38,9 +38,9 @@
 - [デジタル推進委員](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/WUFEajA3OEZnTlJMSXRhd3NvU2g4dz09)
   - 取得年月: 2024年7月
 
-### 業務スキル
+### 業務スキル・Will　Can Must図
 
-![Will Canスキル図](https://i.gyazo.com/83476482a4a667bda950cab20fc8a6dd.png)
+- [Will Canスキル図](https://www.figma.com/design/XakWfbhwCdLjqFqNmPtGaE/noma-Portfolio-open?node-id=5185-1684&t=8NIkTPocoxp0sbNQ-4)
 
 #### デザインシステムの構築から培ったスキル
 
