@@ -40,7 +40,7 @@
 
 ### 業務スキル
 
-![Will Canスキル図](https://i.gyazo.com/601bc10154185eb7c36e71add55e2460.png)
+![Will Canスキル図](https://i.gyazo.com/83476482a4a667bda950cab20fc8a6dd.png)
 
 #### デザインシステムの構築から培ったスキル
 
