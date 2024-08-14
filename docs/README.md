@@ -40,7 +40,7 @@
 
 ### 業務スキル
 
-![Will Canスキル図](https://github.com/haribooooom/noma-resume/blob/master/docs/img/noma-skilMap.png)
+![Will Canスキル図](https://i.gyazo.com/601bc10154185eb7c36e71add55e2460.png)
 
 #### デザインシステムの構築から培ったスキル
 
