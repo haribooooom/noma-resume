@@ -4,7 +4,6 @@
 
 デザインによる使いにくさ・情報にアクセスできない問題を減らすためにデザインしています。
 現在はデザインシステムの構築やサービスのデザイン、アクセシビリティ向上に努め、プロジェクト・ツール管理、チーム内外のコミュニケーション、啓蒙・研修の実施など、多岐にわたる業務も遂行しています。また、ChatGPTなどの生成AIを活用し効率や自分の領域を広げることにも関心があります。
-
 制約の中でもユーザーにとって使いやすくアクセシブルなプロダクトの提供を目指しています。
 
 ## 基本情報
@@ -31,10 +30,8 @@
 
 - ITパスポート
   - 取得年月: 2022年4月
-  - 認定機関: 情報処理推進機構（IPA）
 - [デジタルアクセシビリティアドバイザー](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/SW1tc2FydlFhbHM4RlFFT1ZKUmpXQT09)
   - 取得年月: 2024年5月
-  - 認定機関: 一般社団法人日本支援技術協会
 - [デジタル推進委員](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/WUFEajA3OEZnTlJMSXRhd3NvU2g4dz09)
   - 取得年月: 2024年7月
 
@@ -243,8 +240,6 @@ https://note.com/haribom/n/n84ee876ec4de)
 ## 趣味・好きなこと
 
 - 読書
-  - 読書会を週一
-  - 積読
 - ジム
 - Notion
 - Obsidian
