@@ -8,8 +8,6 @@
 
 ## 基本情報
 
-|key|value|
-|---|---|
 |氏名|野﨑 まどか（Madoka Nozaki）|
 |生年月日|1995/11/06|
 |居住地|神奈川県|
@@ -17,29 +15,18 @@
 
 ---
 
-## 各種アカウント
+## 強み
 
-- [Twitter(X)](https://x.com/haribooooom)
-- [note](https://note.com/haribom”)
-- [Github](https://github.com/haribooooom”)
-- [LinkedIn](https://www.linkedin.com/in/madoka-nozaki-23696b29b/”)
-- [Wantedly](https://www.wantedly.com/id/madoka_nozaki_e”)
-- [Youtrust](https://youtrust.jp/users/haribooooom”)
+私の強みは好奇心からなる”なんでもやる”と”とりあえずやってみる”姿勢、努力を積み重ねられることです。
+目標をに向かい計画を立て実行し、プロダクトを“よりよくする“ためにUIデザイン以外の領域にも挑戦・勉強しています。
+基本品質としてのアクセシビリティを推進・啓蒙、資格受験をしたり社外勉強会等で他社の開発者と交流し学んでいます。またリベラルアーツ、社会状況を知ることもプロダクトを作る上で必要だと思い情報収集等しています。
+私のこの長所を生かし、自身と会社・プロダクトを成長し続けられる存在になっていきたいと思っています。
 
-### 資格・証明
+## 業務スキル
 
-- ITパスポート
-  - 取得年月: 2022年4月
-- [デジタルアクセシビリティアドバイザー](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/SW1tc2FydlFhbHM4RlFFT1ZKUmpXQT09)
-  - 取得年月: 2024年5月
-- [デジタル推進委員](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/WUFEajA3OEZnTlJMSXRhd3NvU2g4dz09)
-  - 取得年月: 2024年7月
+以下は業務から得たスキルの一部です。他のスキルは[Will Canスキル図](https://www.figma.com/design/XakWfbhwCdLjqFqNmPtGaE/noma-Portfolio-open?node-id=5185-1684&t=8NIkTPocoxp0sbNQ-4)（Figmaに飛びます）に記載していますので、よろしければご覧ください。
 
-### 業務スキル・Will　Can Must図
-
-- [Will Canスキル図](https://www.figma.com/design/XakWfbhwCdLjqFqNmPtGaE/noma-Portfolio-open?node-id=5185-1684&t=8NIkTPocoxp0sbNQ-4)
-
-#### デザインシステムの構築から培ったスキル
+### デザインシステムの構築から培ったスキル
 
 - デザインシステムの設計・運用と導入
 - スタイルガイドの作成
@@ -47,14 +34,14 @@
 - ドキュメントの整備と管理
 - Figma,VariantsやVariables
 
-#### サービス改善から培ったスキル
+### サービス改善から培ったスキル
 
 - 課題の言語化、仮説をPOとともに検討
 - 仮説からのUIデザイン
 - エンジニア、POとコミュニケーションをとりながらUIデザインのバランス調整
 - 課題の分析と解決策の提案
 
-#### セールスフォースのデザインから培ったスキル
+### セールスフォースのデザインから培ったスキル
 
 - SalesforceプラットフォームでのカスタムCSS作成
 - FAQサイトのGUIデザインと構築フロー
@@ -80,6 +67,32 @@
     - デザインと開発の間の連携が強化され、プロジェクトの生産性が向上
   - レガシーデザイン・コードの負債解消（途中）
   - トークン設定、ドキュメント構築・storybookによる、迷いの少ないデザイン・実装
+
+### SalesforceでのFAQサイト構築
+
+- 役割
+  - デザイナー、コーダー
+
+- 概要
+  - Salesforce上でのFAQサイト構築において、カスタムCSSを用いてデザインを最適化
+  - 視認性向上と一貫性あるデザインを実現
+
+- 成果
+  - ユーザーの情報検索効率を改善
+  - サポートメンバーの意図する情報・出しわけを可能にし業務改善
+  - 視認性の向上
+
+### 本人確認推奨化
+
+- 役割
+  - デザイナー
+
+- 概要
+  - 本人確認プロセスのデザインを担当
+  - UIデザインから通知文面、HTMLメールの作成まで一貫して実施
+
+- 成果
+  - ユーザー信頼性向上と応答率改善に寄与
 
 ### マーケティング領域、プロダクト認知施策
 
@@ -122,32 +135,6 @@
 - 成果
   - チームの工数を抑え、プロジェクト施策検討・設計効率を向上
 
-### 本人確認推奨化
-
-- 役割
-  - デザイナー
-
-- 概要
-  - 本人確認プロセスのデザインを担当
-  - UIデザインから通知文面、HTMLメールの作成まで一貫して実施
-
-- 成果
-  - ユーザー信頼性向上と応答率改善に寄与
-
-### SalesforceでのFAQサイト構築
-
-- 役割
-  - デザイナー、コーダー
-
-- 概要
-  - Salesforce上でのFAQサイト構築において、カスタムCSSを用いてデザインを最適化
-  - 視認性向上と一貫性あるデザインを実現
-
-- 成果
-  - ユーザーの情報検索効率を改善
-  - サポートメンバーの意図する情報・出しわけを可能にし業務改善
-  - 視認性の向上
-
 ---
 
 ### 副業
@@ -162,48 +149,6 @@
 - 新規業務SaaS
   - アクセシビリティチェック
 
-### 記事投稿note
-
-#### わたしについてのインタビュー
-
-- [【社員インタビュー#1】クラウドワークスでのインターンを経てデザイナーの道へ・のまさん｜CROWDWORKS DESIGNER BLOG](https://note.com/crowdworksdesign/n/nb3dc3e4ea998?magazine_key=m928feb47403b)
-
-#### アクセシビリティ
-
-- [デジタルアクセシビリティアドバイザー（Basicレベル）についてとその勉強法｜のま](https://note.com/haribom/n/n9a6caf61341c)
-- [クラウドワークスのみんなでやってる アクセシビリティ](
-https://speakerdeck.com/haribooom11/kurautowakusunominnateyatuteru-akusesihiritei
-)
-- [「クラウドワークスのみんなでやってるアクセシビリティ」勉強会を実施しました！｜のま](
-https://note.com/haribom/n/n84ee876ec4de)
-- [クラウドワークスのアクセシビリティ啓蒙活動2023｜のま](https://note.com/haribom/n/n70ddd78d98e1)
-
-#### Notionタスク系
-
-- [いろんなチームで積まれるタスクをNotion１ページで管理する方法｜のま](https://note.com/haribom/n/n607b2a4bd6ae)
-- [Notionホームのテンプレートを作成しました｜のま](https://note.com/haribom/n/n586b3d461254)
-- [NotionAIを活用し、自動生成単語帳テンプレートを作成しました｜のま](https://note.com/haribom/n/ne5b28c6b95bc)
-- [引っ越し（先検討用）HOME テンプレートを作成しました｜のま](https://note.com/haribom/n/na5d8605ca96d)
-
-#### デザイン学習
-
-- [デザイナー初心者がまず覚えておくべきFigma｜のま](https://note.com/haribom/n/n276ec7d2c6ce)
-- [iPhone / PCでスキマ時間にデザインをインプットする方法｜のま](https://note.com/haribom/n/n1223167307dc)
-- [【デザインの引き出し】簡単画像収集・管理ができる「Eagle」のすすめ｜のま](https://note.com/haribom/n/na320e4995d37)
-- [【毎日つづく】デザイナー就職・転職で役立つCocodaをやろう！｜のま](https://note.com/haribom/n/nb20888238dc7)
-
-#### 雑記
-
-- [リモート環境を活用したデザイナーマイペース転職記｜のま](https://note.com/haribom/n/n425caf55762b)
-- [2023年の振り返り〜学び・生活・書籍・サービスなど〜｜のま](https://note.com/haribom/n/neac322bbc821)
-- [2022年、56冊読んでおすすめしたいよかった本5選｜のま](https://note.com/haribom/n/n39e2e92b550a)
-- [自分なりのUIデザインとUXデザインの定義をまとめてみる｜のま](https://note.com/haribom/n/n4b5bccf82c22)
-
-### 登壇履歴
-
-- [アクセシビリティLT会(2024/7/16)](https://yumemi.connpass.com/event/323801/)
- - [「アクセシビリティ対応」の先をみる](https://www.figma.com/slides/uVTS7a2QsZUCFy4cMwE738/%E3%80%8C%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E5%AF%BE%E5%BF%9C%E3%80%8D%E3%81%AE%E5%85%88%E3%82%92%E3%81%BF%E3%82%8B?t=QDJ9JVH2FknkFWVR-6)
-
 ### 勉強会の主催
 
 - 社内・社外勉強会の企画・運営
@@ -213,6 +158,15 @@ https://note.com/haribom/n/n84ee876ec4de)
 ### その他
 
 - 他社とのアクセシビリティに関する交流会を実施
+
+## 資格・証明
+
+- ITパスポート
+  - 取得年月: 2022年4月
+- [デジタルアクセシビリティアドバイザー](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/SW1tc2FydlFhbHM4RlFFT1ZKUmpXQT09)
+  - 取得年月: 2024年5月
+- [デジタル推進委員](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/WUFEajA3OEZnTlJMSXRhd3NvU2g4dz09)
+  - 取得年月: 2024年7月
 
 ---
 
@@ -224,22 +178,3 @@ https://note.com/haribom/n/n84ee876ec4de)
 - プロダクトマネジメント
 - 情報設計
 - 定量データ分析（Looker Studioほか）
-
----
-
-## 希望条件
-
-- チームでの協力やコミュニケーション・文化が大切にされる職場環境
-- 職域を超えた働き方ができる
-- アクセシビリティなど、直接的に売上につながらないものもやっていこうとする土壌がある
-- ユーザーの声を聞く・ヒアリングできる
-- フルリモートやハイブリッドの柔軟な働き方が可能
-
----
-
-## 趣味・好きなこと
-
-- 読書
-- ジム
-- Notion
-- Obsidian
