@@ -157,12 +157,11 @@
 
 ## 資格・証明
 
-- ITパスポート
-  - 取得年月: 2022年4月
-- [デジタルアクセシビリティアドバイザー](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/SW1tc2FydlFhbHM4RlFFT1ZKUmpXQT09)
-  - 取得年月: 2024年5月
-- [デジタル推進委員](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/WUFEajA3OEZnTlJMSXRhd3NvU2g4dz09)
-  - 取得年月: 2024年7月
+| 項目     | 取得年月日 | 
+| -------- | -------- | 
+| ITパスポート | 2022年4月| 
+| [デジタルアクセシビリティアドバイザー](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/SW1tc2FydlFhbHM4RlFFT1ZKUmpXQT09) | 2024年5月| 
+| [デジタル推進委員](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/WUFEajA3OEZnTlJMSXRhd3NvU2g4dz09) | 2024年7月| 
 
 ---
 
