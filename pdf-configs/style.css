@@ -20,11 +20,6 @@ h2{
   font-size: 1.3rem;
 }
 
-h2::before{
-  content:"▫️ "
-}
-
-
 table {
   font-size: 14px;
   border-collapse: collapse;
