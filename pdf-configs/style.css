@@ -1,8 +1,13 @@
 @import url(//fonts.googleapis.com/earlyaccess/notosansjapanese.css);
 
 body {
-  font-size: 14px;
+  font-size: 16px;
+  line-height: 160%;
   font-family: "Noto Sans Japanese", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+h1{
+  font-size: 1.5rem;
 }
 
 h1:first-child {
@@ -10,6 +15,15 @@ h1:first-child {
   padding-top: 0;
   text-align: center;
 }
+
+h2{
+  font-size: 1.3rem;
+}
+
+h2::before{
+  content:"□"
+}
+
 
 table {
   font-size: 14px;
