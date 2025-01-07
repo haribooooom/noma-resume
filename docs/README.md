@@ -106,7 +106,7 @@
 
 - レポート
   - [クラウドワークス×SmartHR「出張！俺の仕事探し」〜クラウドワークスをアクセシビリティチェック レポート #smarthr_a11y](https://note.com/haribom/n/n20ae3ecbefd2)
-  - [クラウドワークス×SmartHR「出張！俺の仕事探し」〜クラウドワークスをアクセシビリティチェックの裏側 ~何より準備・仲間づくり~ #smarthr_a11y](https://note.com/haribom/n/nd3fd41e9ea84)
+  - [クラウドワークス×SmartHR「出張！俺の仕事探し」〜クラウドワークスをアクセシビリティチェックの裏側 何より準備・仲間づくり #smarthr_a11y](https://note.com/haribom/n/nd3fd41e9ea84)
 
 ### SalesforceでのFAQサイト構築
 
