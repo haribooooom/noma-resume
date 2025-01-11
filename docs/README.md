@@ -46,7 +46,7 @@
 - タスクの優先順位付けと進捗管理
 - チームメンバーの目標設定リードとフィードバック
 
-##　Will　Can　Must
+## Will　Can　Must
 
 下記のFigmaリンクにて共有していますのでよろしければご確認ください。
 https://www.figma.com/design/wo9elPZ4Ia2qjx9hnt2B04/Will-Can-Must?node-id=3-117&t=J68KtarFbhkGoTFS-11
