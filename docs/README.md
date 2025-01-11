@@ -46,17 +46,10 @@
 - タスクの優先順位付けと進捗管理
 - チームメンバーの目標設定リードとフィードバック
 
-##　できること・やりたいこと
+##　Will　Can　Must
 
-### Will Can　Must
-現在できること、今後やりたいことをまとめた図になります。
-![Will Can Mustスキル図](img/willCanMust.png)
-
-今後、主に以下のことに取り組みたいと思っています。
-
-- 必要に応じたユーザーリサーチを伴ったプロダクト開発
-- PO・エンジニアのいるチームでの開発
-- できるところからのアクセシビリティ改善
+下記のFigmaリンクにて共有していますのでよろしければご確認ください。
+https://www.figma.com/design/wo9elPZ4Ia2qjx9hnt2B04/Will-Can-Must?node-id=3-117&t=J68KtarFbhkGoTFS-11
 
 ---
 
